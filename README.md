@@ -30,3 +30,10 @@ An output could be:
     128000     4.26689       0.022895
     256000     20.4378      0.0472562
     
+## Make the progams
+The compiler used is g++, to compile use:
+* removeDuplicatesCheck:
+`make removeDuplicatesCheck`
+
+* removeDuplicatesComplexity
+`make removeDuplicatesComplexity`
